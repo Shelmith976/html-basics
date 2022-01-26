@@ -14,3 +14,9 @@ width: 50%;
 border: 1px solid black;
 border-collapse: collapse;
 }
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header,title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
